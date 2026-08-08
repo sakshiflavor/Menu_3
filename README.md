@@ -31,7 +31,7 @@
       
     </h3>
  
-  <form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
+<form action="https://sakshiflavor.github.io/Menu_1/" style="text-align: center;">
   <button type="submit">Tea&Coffee</button></form>
     
  <form action="https://sakshiflavor.github.io/Menu_2/" style="text-align: center;">
@@ -42,7 +42,7 @@
 <form action="https://sakshiflavor.github.io/Menu_4/" style="text-align: center;">
   <button type="submit">Puchka</button></form>
         
-   <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
+ <form action="https://sakshiflavor.github.io/Menu_5/" style="text-align: center;">
   <button type="submit">Pizza</button></form>
             
   <form action="https://sakshiflavor.github.io/Menu_6/" style="text-align: center;">
@@ -50,8 +50,8 @@
               
    <form action="https://sakshiflavor.github.io/Menu_7/" style="text-align: center;">
   <button type="submit">Fries/Nuggets/PavGarden </button></form>
-  
-  <form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
+         
+<form action="https://sakshiflavor.github.io/Menu_8/" style="text-align: center;">
   <button type="submit">Chaat</button></form>
                  
   <form action="https://sakshiflavor.github.io/Menu_9/" style="text-align: center;">
@@ -60,7 +60,7 @@
   <form action="https://sakshiflavor.github.io/Menu_10/" style="text-align: center;">
   <button type="submit">Makka_Mug/Nachos/C.P Special</button></form>
     
-   <form action="https://sakshiflavor.github.io/Menu_17/" style="text-align: center;">
+   <form action="https://sakshiflavor.github.io/Menu_11/" style="text-align: center;">
   <button type="submit">Pasta</button>
 </form>
     <form action="https://sakshiflavor.github.io/Menu_12/" style="text-align: center;">
@@ -75,3 +75,4 @@
    <form action="https://sakshiflavor.github.io/Menu_15/" style="text-align: center;">
   <button type="submit">Shakes/Cold_Coffee</button>
 </form>
+
