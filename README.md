@@ -16,18 +16,18 @@
     Burger
     <br>
     <h3>
-<p style="word-spacing: 140px; text-align: Center;">Aloo_Tikki_Burger  ₹60</p>
-  <p style="word-spacing: 148px; text-align: Center;">Schezwan_Burger     ₹70</p>
-      <p style="word-spacing: 157px; text-align: Center;">Coleslaw_Burger ₹70</p>   
-      <p style="word-spacing: 160px; text-align: Center;">Maxican_Burger ₹95</p>
-      <p style="word-spacing: 160px; text-align: Center;">Creamy_Burger ₹110</p>
-      <p style="word-spacing: 110px; text-align: Center;">Paneer_Tikki_Burger ₹120</p>
-      <p style="word-spacing: 92px; text-align: Center;">Double_Decker_Burger ₹150</p>
-      <p style="word-spacing: 98px; text-align: Center;">Crunchy_Tikki_Burger ₹160</p>
-      <p style="word-spacing: 124px; text-align: Center;">Veg_Suprise_Burger ₹160</p>
-      <p style="word-spacing: 145px; text-align: Center;">Maharaja_Burger  ₹170</p>
-       <p style="word-spacing: 110px; text-align: Center;">Veg_Mahkani_Burger  ₹170</p>
-       <p style="word-spacing: 155px; text-align: Center;">Crunchy_Burger       ₹195</p>
+<p style="word-spacing: 140px; text-align: Center; color: white;">Aloo_Tikki_Burger  ₹60</p>
+  <p style="word-spacing: 148px; text-align: Center; color: white;">Schezwan_Burger     ₹70</p>
+      <p style="word-spacing: 157px; text-align: Center; color: white;">Coleslaw_Burger ₹70</p>   
+      <p style="word-spacing: 160px; text-align: Center; color: white;">Maxican_Burger ₹95</p>
+      <p style="word-spacing: 160px; text-align: Center; color: white;">Creamy_Burger ₹110</p>
+      <p style="word-spacing: 110px; text-align: Center; color: white;">Paneer_Tikki_Burger ₹120</p>
+      <p style="word-spacing: 92px; text-align: Center; color: white;">Double_Decker_Burger ₹150</p>
+      <p style="word-spacing: 98px; text-align: Center; color: white;">Crunchy_Tikki_Burger ₹160</p>
+      <p style="word-spacing: 124px; text-align: Center; color: white;">Veg_Suprise_Burger ₹160</p>
+      <p style="word-spacing: 145px; text-align: Center; color: white;">Maharaja_Burger  ₹170</p>
+       <p style="word-spacing: 110px; text-align: Center; color: white;">Veg_Mahkani_Burger  ₹170</p>
+       <p style="word-spacing: 155px; text-align: Center; color: white;">Crunchy_Burger       ₹195</p>
       
  </h3>
     <br>
